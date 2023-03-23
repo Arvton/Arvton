@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a cloud analyst at WithYouWithMe.
-- 🌱 I’m currently learning a lot of things to become a more skilled tech industry professional. I'm keeping my cloud admin knowledge by building out my own cloud projects and picking up web developer knowledge from various places.
+- 🌱 I’m currently learning a lot of things to become a more skilled tech industry professional. I'm growing my cloud admin knowledge by building out my own cloud projects and picking up web developer knowledge from various places.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I dug up all the grass on my frontyard and turned it into a food garden.
 
