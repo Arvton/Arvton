@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a cloud analyst at WithYouWithMe.
-- 🌱 I’m currently learning a lot of things to become a more skilled tech industry professional. I'm growing my cloud admin knowledge by building out my own cloud projects and picking up web developer knowledge from various places.
+- 🔭 I’m currently working as an independent contractor at EY Canada.
+- 🌱 I’m learning many things to become a more skilled tech industry professional. In the summer of 2024, I'm growing my cloud knowledge by building cloud projects, learning TypeScript, and testing with Playwright.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I dug up all the grass on my frontyard and turned it into a food garden.
 
