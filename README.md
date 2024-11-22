@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as an independent contractor at EY Canada.
-- 🌱 I’m learning many things to become a more skilled tech industry professional. In the summer of 2024, I'm growing my cloud knowledge by building cloud projects, learning TypeScript, and testing with Playwright.
+- 🌱 I’m ~~learning many things~~ narrowing down my learning to DevOps culture and tools. Right now, I'm picking up the basics of Golang.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I dug up all the grass on my frontyard and turned it into a food garden.
-
+- ⚡ Fun fact: I'm selling my house and moving to a condo half the size with my family of three (plus two cats).
 <!--
 **Arvton/Arvton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
