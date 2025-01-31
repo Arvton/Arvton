@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as an independent contractor at EY Canada.
-- 🌱 I’m ~~learning many things~~ narrowing down my learning to DevOps culture and tools. Right now, I'm picking up the basics of Golang.
+- 🌱 I’m ~~learning many things~~ narrowing down my learning to DevOps culture and tools. Right now, I'm working on the Kubestronaut program.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm selling my house and moving to a condo half the size with my family of three (plus two cats).
+- ⚡ Fun fact: I sold my house and moved to a condo half the size with my family of three (plus two cats).
 <!--
 **Arvton/Arvton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
